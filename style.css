@@ -188,7 +188,7 @@ padding-inline:10px;
     border-radius: 50%;
     font-size: 30px;
 }
-.socila-icons::hover{
+.socila-icons:hover{
     color:black;
     background-color: #f8cb46;
     box-shadow: 3px 3px 5px black;
